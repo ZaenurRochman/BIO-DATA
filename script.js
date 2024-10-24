@@ -1,14 +1,14 @@
 // Data biodata
 const biodataData = {
-    fullName: "Erik Suroso",
+    fullName: "Zaenur Rochman",
     occupation: "Mahasiswa",
-    birthInfo: "Purbalingga, 02 Maret 2005",
+    birthInfo: "Banyumas, 03 September 2004",
     gender: "Laki-laki",
     religion: "Islam",
-    address: "Majasem, Kemangkon, Purbalingga",
-    email: "eriksuroso235@gmail.com",
-    phone: "088216635472",
-    social: "@erichh.fromm",
+    address: "Karangklesem, Pekuncen, Banyumas",
+    email: "zaenur394@gmail.com",
+    phone: "085700227833",
+    social: "@zaenur.chmn",
     skills: [
         "HTML", "CSS", "MySQL", "Microsoft Office"
     ]
